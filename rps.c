@@ -6,6 +6,7 @@
 *
 * Name: rps.c
 * Date: 2023-05-11
+* Rock Paper Scissors Game in C
 *******************************************************************/
 int main(){
     int myGuess;
