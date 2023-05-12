@@ -5,6 +5,7 @@
 *  
 *
 * Name: rps.c
+* Author: Elainna Peay
 * Date: 2023-05-11
 * Rock Paper Scissors Game in C
 *******************************************************************/
